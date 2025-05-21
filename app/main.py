@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-from app.utils import load_data, plot_ghi_boxplot
+from utils import load_data, plot_ghi_boxplot
+
 
 st.set_page_config(page_title="Solar Dashboard", layout="wide")
 st.title("🌞 Solar Potential Comparison Dashboard")
