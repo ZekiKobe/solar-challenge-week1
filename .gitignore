@@ -11,3 +11,4 @@ data/
 
 # Ignore CSV files
 *.csv
+requirements.txt
