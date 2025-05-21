@@ -9,3 +9,5 @@ __pycache__/
 
 # Ignore CSV files
 *.csv
+config.bat
+node_modules
