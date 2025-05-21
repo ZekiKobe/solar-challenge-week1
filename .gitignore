@@ -3,8 +3,6 @@ venv/
 __pycache__/
 *.pyc
 
-# Ignore data
-data/
 
 # Ignore notebooks metadata
 .ipynb_checkpoints/
