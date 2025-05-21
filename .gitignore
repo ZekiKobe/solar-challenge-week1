@@ -3,11 +3,11 @@ venv/
 __pycache__/
 *.pyc
 
-# Ignore data
-data/
 
 # Ignore notebooks metadata
 .ipynb_checkpoints/
 
 # Ignore CSV files
 *.csv
+config.bat
+node_modules
